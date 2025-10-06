@@ -55,15 +55,15 @@ It’s ideal for:
 
 ## 🧑‍💻 Author
 
-Erin Joel Moore
-📍 Virginia Beach, VA
-🌱 Biology, Data Science & Climate Stewardship
+**Erin Joel Moore**  
+📍 Virginia Beach, VA  
+🌱 Biology, Data Science & Climate Stewardship  
 
-
+---
 
 ## 🚀 Quick Start
 
-
+```bash
 # Clone the repository
 git clone https://github.com/YOUR-USERNAME/biosphere-dashboard.git
 cd biosphere-dashboard
@@ -73,18 +73,6 @@ npm install
 
 # Run the development server
 npm run dev
-
-biosphere-dashboard/
-├── public/               # Static assets
-├── src/
-│   ├── components/       # Reusable UI components
-│   ├── data/             # Data utilities or static JSON
-│   ├── hooks/            # Custom React hooks
-│   ├── pages/            # App entry point
-│   └── styles/           # Tailwind or CSS modules
-├── package.json
-├── README.md
-└── vite.config.js
 ```
 
 ## 🪐 License
