@@ -39,9 +39,31 @@ It’s ideal for:
 
 ---
 
+## 🌐 Deployment
+
+- You can deploy this app directly from GitHub:
+- Vercel: Easiest — just connect your repo and click deploy
+- GitHub Pages: npm run build then push to a gh-pages branch
+- AWS Amplify: One-click connect from GitHub and auto-deploy
+
+## 💡 Future Roadmap
+
+- Add time-lapse map animations
+- Integrate AI models for ecological trend prediction
+- Display biodiversity and conservation metrics
+- Offline caching for field researchers
+
+## 🧑‍💻 Author
+
+Erin Joel Moore
+📍 Virginia Beach, VA
+🌱 Biology, Data Science & Climate Stewardship
+
+
+
 ## 🚀 Quick Start
 
-```bash
+
 # Clone the repository
 git clone https://github.com/YOUR-USERNAME/biosphere-dashboard.git
 cd biosphere-dashboard
@@ -63,26 +85,7 @@ biosphere-dashboard/
 ├── package.json
 ├── README.md
 └── vite.config.js
-
-## 🌐 Deployment
-
-- You can deploy this app directly from GitHub:
-- Vercel: Easiest — just connect your repo and click deploy
-- GitHub Pages: npm run build then push to a gh-pages branch
-- AWS Amplify: One-click connect from GitHub and auto-deploy
-
-## 💡 Future Roadmap
-
-- Add time-lapse map animations
-- Integrate AI models for ecological trend prediction
-- Display biodiversity and conservation metrics
-- Offline caching for field researchers
-
-## 🧑‍💻 Author
-
-Erin Joel Moore
-📍 Virginia Beach, VA
-🌱 Biology, Data Science & Climate Stewardship
+```
 
 ## 🪐 License
 
