@@ -1,4 +1,4 @@
-# Biosphere Dashboard
+# Verde: A Biosphere Dashboard
 
 A comprehensive environmental monitoring platform for the Hampton Roads region, featuring real-time climate data, interactive mapping, and biosphere analytics.
 
@@ -141,3 +141,4 @@ This project is open source and available under the MIT License.
 **Developer**: Rinny  
 **Location**: Hampton Roads, Virginia  
 **Last Updated**: 2024
+
